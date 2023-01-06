@@ -2,7 +2,6 @@
 - 💻 I’m interested in Challenges.
 - ⚛️ I’m currently learning React Native.
 - 🌳 I’m looking to collaborate on New projects.
-- 📫 Everyone can reach me on Social Medias.
 
 ## Languages & Tools :
 
