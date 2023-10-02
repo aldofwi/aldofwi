@@ -1,7 +1,7 @@
 - 💬 Hi, I’m @aldofwi.
-- 💻 I’m interested in Challenges.
-- ⚛️ I’m currently learning React Native.
-- 🌳 I’m looking to collaborate on New projects.
+- 💻 I’m interested in New Challenges.
+- ⚛️ I’m currently working as a Freelance.
+- 🌳 I’m looking to collaborate on New Features.
 
 ## Languages & Tools :
 
